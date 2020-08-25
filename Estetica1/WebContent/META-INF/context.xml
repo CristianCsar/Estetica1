@@ -1,0 +1,12 @@
+<Context>
+<Resource name="jdbc/E_Productos" auth="Container" type="javax.sql.DataSource"  maxActive="15"
+
+     maxIdle="3" maxWait="5000"
+
+     username="root" password="pragnananda" driverClassName="com.mysql.cj.jdbc.Driver"
+
+     url="jdbc:mysql://localhost:3306/Estetica">
+ 
+     </Resource>
+
+</Context>
